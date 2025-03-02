@@ -1,1 +1,1 @@
-Este es mi primer repositorio en Git. Creado JavierSancho.
+Este es un cambio hecho desde GitHub por JavierSancho.
